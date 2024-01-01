@@ -1,0 +1,120 @@
+2023-12-27T13:37:07+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "blog_setting" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T13:37:23+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "blog_setting" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T13:38:04+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "blog_setting" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T13:50:56+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "breadcrumb_design" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T15:16:28+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "breadcrumb_design" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T17:49:45+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "header_contact_cart" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T17:50:07+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "header_menu_contact" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T17:50:57+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "header_contact_cart" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T17:51:09+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "header_contact_cart" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
+2023-12-27T18:13:47+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "header_menu_contact" not found or invalid function name in C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\Cosmito\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\Cosmito\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Cosmito\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\Cosmito\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Cosmito\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\Cosmito\wp-includes\customize\class-wp-customize-partial.php à la ligne 222
+
